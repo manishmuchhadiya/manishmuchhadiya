@@ -1,10 +1,14 @@
 # Hi there, I'm Manish! 👋
 
-[![Linkedin: manishmuchhadiya](https://img.shields.io/badge/-manishmuchhadiya-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/manish-muchhadiya-720859261/)](https://www.linkedin.com/in/manish-muchhadiya-720859261/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/manishmuchhadiya?label=follow&style=social)](https://github.com/manishmuchhadiya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-%2300C896?style=flat-square&logo=internet-explorer&logoColor=white)](https://manish-dev-portfolio.netlify.app/)
+[![LinkedIn: manishmuchhadiya](https://img.shields.io/badge/-manishmuchhadiya-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manish-muchhadiya-720859261/)
+[![GitHub Followers](https://img.shields.io/github/followers/manishmuchhadiya?label=follow&style=social)](https://github.com/manishmuchhadiya)
+
 <br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishmuchhadiya&layout=compact&theme=gotham&custom_title=Statistics)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manishmuchhadiya&show_icons=true&theme=radical)
+
 
 # Languages and Tools
 
