@@ -39,18 +39,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishmuchhadiya&show_icons=true&locale=en" alt="manishmuchhadiya" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishmuchhadiya&" alt="manishmuchhadiya" /></p> -->
-<p>
-  <img align="left" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manishmuchhadiya&layout=compact&show_icons=true" />
-</p>
-
-<p>
-  <img align="center" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manishmuchhadiya&show_icons=true" />
-</p>
-
-<p>
-  <img align="center" 
-       src="https://streak-stats.demolab.com?user=manishmuchhadiya" />
-</p>
-
+### 🔥 Contributions:
+<img src="https://streak-stats.demolab.com?user=manishmuchhadiya" alt="GitHub Streak" />
+### ✨ Stats:
+<img src="https://github-readme-stats-mu-blond.vercel.app/api?username=manishmuchhadiya&show_icons=true" alt="GitHub Stats" />
+### 🌐 Languages:
+<img src="https://github-readme-stats-mu-blond.vercel.app/api/top-langs/?username=manishmuchhadiya&layout=compact" alt="Top Languages" />
